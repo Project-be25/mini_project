@@ -56,7 +56,7 @@ Output:
 
 Circuit
 
-![image](https://github.com/Project-be25/mini_project/assets/169865769/3d0a71f1-822f-44e4-ac47-7af285f5199d)
+![image](https://github.com/Project-be25/mini_project/assets/169865769/1891febc-0dbe-4b10-878d-2fabac46f20f)
 
 Firebase
 
