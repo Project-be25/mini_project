@@ -53,7 +53,7 @@ Added an About Us page featuring information about the app developers.
 Output:
 
 ![Picture2](https://github.com/Project-be25/mini_project/assets/169865769/eb94b624-68a5-45bc-9b86-ce191e35b6c8)
-![Picture19](https://github.com/Project-be25/mini_project/assets/169865769/baa55624-5278-45da-bcc0-e6fc7eb0e157)
+![Picture19](https://github.com/Project-be25/mini_project/assets/169865769/567a0a71-71c8-47bc-96c2-ebed477a6799)
 
 Circuit
 
