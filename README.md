@@ -11,7 +11,8 @@ Our proposed solution utilises sensors, firebase and flutter-based apps to enhan
 
 WORKFLOW 
 
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/979cd9d3-1012-4253-8eb3-b5de93978277)
+![image](https://github.com/Project-be25/mini_project/assets/169865769/4dee34ce-c0fe-4029-8cd9-85494920b861)
+
 
 Fireman App Features
 
