@@ -51,8 +51,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBTDW89-t242M_gl_cYmJfwLyDRaGJNmOE',
-    appId: '1:286153118585:android:dce85247f801349c4f55a8',
+    apiKey: 'API KEY',
+    appId: 'API ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -60,8 +60,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD7i9fQXpkqQL63S1ZPpJ2BALNdqmncK0M',
-    appId: '1:286153118585:ios:3a60beaa010472744f55a8',
+    apiKey: 'API KEY',
+    appId: 'API ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCJXlGqamUrGHs9uD-oFTlhhWmCvk4o7ts',
-    appId: '1:286153118585:web:95d896f1c3550c574f55a8',
+    apiKey: 'API KEY',
+    appId: 'API ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     authDomain: 'blaze-buddy.firebaseapp.com',
