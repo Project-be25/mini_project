@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3HCL9LZJ8"   //including blynk auth token and device details
 #define BLYNK_TEMPLATE_NAME "fire alarm"
-#define BLYNK_AUTH_TOKEN "pMr5I5yOFqcWErrrm6utQMTEq02Qr7SX" 
+#define BLYNK_AUTH_TOKEN "BLYNK AUTH TOKEN HERE" 
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -9,7 +9,7 @@
 #include "addons/TokenHelper.h"   //Providing the token generation process info.
 #include "addons/RTDBHelper.h"   //Providing the RTDB payload printing info and other helper functions.
 
-#define API_KEY "AIzaSyCJXlGqamUrGHs9uD-oFTlhhWmCvk4o7ts"   // Inserting Firebase project API Key
+#define API_KEY "FIREBASE API KEY HERE"   // Inserting Firebase project API Key
 #define DATABASE_URL "https://blaze-buddy-default-rtdb.firebaseio.com/"   // Inserting RTDB URL
 
 FirebaseData fbdo;   //Defining Firebase Data object
