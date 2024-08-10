@@ -16,7 +16,7 @@ import 'start.dart';
   options: DefaultFirebaseOptions.currentPlatform,
  );
 
- Gemini.init(apiKey: "AIzaSyCnXcQVTl9V5a7YrE75Z_NEbYKTkvBr0DA",);
+ Gemini.init(apiKey: "GEMINI API KEY",);
 
  runApp(MaterialApp(
 //home: Home(),
