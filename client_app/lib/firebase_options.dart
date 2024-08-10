@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'API KEY',
-    appId: 'API ID',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'API KEY',
-    appId: 'API ID',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'API KEY',
-    appId: 'API ID',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     authDomain: 'blaze-buddy.firebaseapp.com',
