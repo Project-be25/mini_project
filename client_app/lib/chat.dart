@@ -12,7 +12,7 @@ class chatPage extends StatefulWidget {
 
 class _chatPageState extends State<chatPage> {
   final Gemini gemini_ob = Gemini.instance;
-    String GEMINI_KEY = "AIzaSyCnXcQVTl9V5a7YrE75Z_NEbYKTkvBr0DA";
+    String GEMINI_KEY = "GEMINI API KEY";
     ChatUser currUser = ChatUser(id:"0",firstName: "User");
     ChatUser geminiUser = ChatUser(id:"1",firstName: "Gemini");
     List<ChatMessage> msgs = [];
