@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCJXlGqamUrGHs9uD-oFTlhhWmCvk4o7ts',
-    appId: '1:286153118585:web:210f5ea58de142c94f55a8',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     authDomain: 'blaze-buddy.firebaseapp.com',
@@ -52,8 +52,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBTDW89-t242M_gl_cYmJfwLyDRaGJNmOE',
-    appId: '1:286153118585:android:993f85544b01a3e34f55a8',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -61,8 +61,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD7i9fQXpkqQL63S1ZPpJ2BALNdqmncK0M',
-    appId: '1:286153118585:ios:c7338cfdddd66a374f55a8',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD7i9fQXpkqQL63S1ZPpJ2BALNdqmncK0M',
-    appId: '1:286153118585:ios:c7338cfdddd66a374f55a8',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     databaseURL: 'https://blaze-buddy-default-rtdb.firebaseio.com',
@@ -81,8 +81,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCJXlGqamUrGHs9uD-oFTlhhWmCvk4o7ts',
-    appId: '1:286153118585:web:210f5ea58de142c94f55a8',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
     messagingSenderId: '286153118585',
     projectId: 'blaze-buddy',
     authDomain: 'blaze-buddy.firebaseapp.com',
